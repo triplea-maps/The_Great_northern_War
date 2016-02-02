@@ -1,0 +1,8 @@
+Kuressaare  (1300,1500)
+Stockholm  (880,1250)
+Oslo  (490,1080)
+
+Borgholm  (780,1620)
+Mariehamn  (1055,1250)
+Kobenhavn  (270,1750)
+Kursk  (2460,2300)

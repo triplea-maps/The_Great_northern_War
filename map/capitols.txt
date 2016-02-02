@@ -1,0 +1,21 @@
+Stockholm  (880,1170)
+
+Hannover  (100,2370)
+
+Berlin  (600,2200)
+
+Dresden  (740,2470)
+
+Moskva  (2370,1750)
+
+Kobenhavn  (350,1700)
+
+Warszawa  (1440,2150)
+
+Kiyv  (1980,2200)
+
+Malmo  (500,1600)
+
+Oslo  (480,1050)
+
+St. Petersburg  (1870,1270)
