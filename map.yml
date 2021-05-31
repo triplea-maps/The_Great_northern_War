@@ -1,0 +1,3 @@
+map_name: the_great_northern_war
+games:
+- {game_name: The Great Northern War, file_name: TheGreatNorthernWar.xml}
